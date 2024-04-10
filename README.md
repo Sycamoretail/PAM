@@ -11,4 +11,5 @@ Thanks for pointing that out. The field of online recommendations and incrementa
 |IMSR|XX|XX|-|
 |PAM-F|XX|XX|+XX%|
 
+[1] Ma et al. Cross-Modal Content Inference and Feature Enrichment for Cold-Start Recommendation. IJCNN '23
 [2] Wang et al. Incremental Learning for Multi-Interest Sequential Recommendation. ICDE 2023
