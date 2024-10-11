@@ -1,0 +1,2 @@
+model_checkpoint_path: "Epoch1_TestAUC0.0000_TestLOGLOSS0.7079_TestCOLDLOSS0.4454_TestRECALL0.7704_TestNDCG0.4366_.ckpt"
+all_model_checkpoint_paths: "Epoch1_TestAUC0.0000_TestLOGLOSS0.7079_TestCOLDLOSS0.4454_TestRECALL0.7704_TestNDCG0.4366_.ckpt"
