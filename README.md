@@ -14,4 +14,6 @@ python train_ml.py
 
 The model will read the pre-stored parameters at the end of period 28, train on period 29 data and evaluate on period 30 data, the results of which will be output and stored.
 
+We also revised the article in response to the reviewer's comments and uploaded the revised version of the image along with the article.
+
 We hope we adequately addressed all the reviewers' concerns and that you would consider reflecting that in your score. If you have any additional questions, we would be happy to answer them during the discussion period =)
