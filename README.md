@@ -6,7 +6,7 @@ Due to character limitations, we have included all of the experimental sections 
 
 We uploaded the PAM code synchronously to ensure reproducibility of the paper. 
 
-To run PAM, you need to install packages ``tensorflow==1.15.0``, ``pandas`` and ``numpy``, unzip the zipped dataset file ``datasets.zip``, and run:
+To run PAM, you need to install packages ``tensorflow==1.15.0``, ``pandas`` and ``numpy``, unzip the zipped dataset file ``datasets.zip``, cd into PAM-F folder and run:
 
 ```python
 python train_ml.py
